@@ -1,0 +1,10 @@
+total 20
+-rw-r--r-- 1 qkrrlwn97 qkrrlwn97    0 Sep 19 16:32 ,
+drwxr-xr-x 2 qkrrlwn97 qkrrlwn97 4096 Sep 24 19:15 dir2
+drwxr-xr-x 2 qkrrlwn97 qkrrlwn97 4096 Sep 24 19:20 dir22
+-rw-r--r-- 1 qkrrlwn97 qkrrlwn97    0 Sep 25 13:11 home.txt
+-rw-r--r-- 1 qkrrlwn97 qkrrlwn97    0 Sep 24 19:19 movingfile
+-rw-r--r-- 1 qkrrlwn97 qkrrlwn97  188 Sep 24 18:55 my_assign_list.txt
+-rw-r--r-- 1 qkrrlwn97 qkrrlwn97   43 Sep 24 19:14 output
+-rw-r--r-- 1 qkrrlwn97 qkrrlwn97   14 Sep 24 19:13 output_file
+집에 진짜 가고싶다 진심으로
